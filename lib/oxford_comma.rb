@@ -3,7 +3,5 @@ def oxford_comma(array)
   end 
   if array.count == 2 then array.join(" and ")
   end 
-  
-  if array.count == 3 then array.join 
 end 
 end
